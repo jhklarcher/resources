@@ -16,9 +16,9 @@ Repositório para compilar os principais recursos de Ciência de Dados que encon
 
 ## Datasets
 
-* [FiveThirtyEight](https://github.com/fivethirtyeight/data): datasets utilizados nas materias do site FiveThirtyEight.
-* [BuzzFeedNews](https://github.com/BuzzFeedNews/everything): datasets utilizados nas materias do site BuzzFeedNews.
+* (GitHub) [FiveThirtyEight](https://github.com/fivethirtyeight/data): datasets utilizados nas materias do site FiveThirtyEight.
+* (GitHub) [BuzzFeedNews](https://github.com/BuzzFeedNews/everything): datasets utilizados nas materias do site BuzzFeedNews.
 
 ## Podcasts
-* [Pizza de Dados](https://pizzadedados.com/): podcast brasileiro sobre ciência e de dados.
-* [Data Hackers](https://datahackers.com.br/): podcast brasileiro sobre ciência e de dados.
+* (Site) [Pizza de Dados](https://pizzadedados.com/): podcast brasileiro sobre ciência e de dados.
+* (Site) [Data Hackers](https://datahackers.com.br/): podcast brasileiro sobre ciência e de dados.
