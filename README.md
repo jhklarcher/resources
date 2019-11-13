@@ -1,4 +1,4 @@
-# Aprender Ciência de Dados
+# Ciência de Dados
 
 Repositório para compilar os principais recursos de Ciência de Dados que encontro.
 
