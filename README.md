@@ -1,6 +1,6 @@
 # Aprender Ciência de Dados
 
-Repositório para compilar os principais recursos para aprendizagem de dados que encontro.
+Repositório para compilar os principais recursos de Ciência de Dados que encontro.
 
 ## Machine Learning
 
