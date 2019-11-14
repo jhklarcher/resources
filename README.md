@@ -2,6 +2,9 @@
 
 Repositório para compilar os principais recursos de Ciência de Dados que encontro.
 
+## Geral
+* (Site) [The Open Source Data Science Masters](http://datasciencemasters.org/)
+
 ## Machine Learning
 
 * (Livro) [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/): livro muito completo que é referência para machine learning.
