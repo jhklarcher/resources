@@ -2,6 +2,14 @@
 
 Repositório para compilar os principais recursos de Ciência de Dados que encontro.
 
+* R
+* Python
+* Livros
+* Machine Learning
+* Data Science
+* Cursos
+
+
 ## Geral
 * (Cursos) [Kaggle Learn](https://www.kaggle.com/learn)
 * (Site) [The Open Source Data Science Masters](http://datasciencemasters.org/)
