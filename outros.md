@@ -9,3 +9,7 @@
 ## Cheat Sheets
 
 [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+
+## Github
+
+[Awesome C](https://github.com/kozross/awesome-c)
